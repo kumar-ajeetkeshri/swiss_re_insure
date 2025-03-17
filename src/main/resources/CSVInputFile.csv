@@ -1,0 +1,17 @@
+Id,firstName,lastName,salary,managerId
+123,Joe,Doe,260000,
+125,Bob,Ronstad,47000,123
+126,Alice,Ronstad,47000,125
+127,John,Ronstad,47000,126
+128,Bill,Ronstad,47000,127
+129,Smith,Ronstad,47000,128
+130,Adam,Ronstad,47000,129
+124,Martin,Chekov,45000,123
+300,ALice,Hasacat,50000,124
+305,Brett,HardLeaf,34000,300
+306,Ajeet,Keshri,34000,305
+307,Aadvik,Keshri,34000,306
+308,Varsha,Keshri,34000,307
+150,Colton,Wood,45000,123
+151,Erika,Aguirre,45000,150
+152,Anika,Jagati,45000,151
